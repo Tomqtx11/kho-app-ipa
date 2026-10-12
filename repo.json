@@ -28,7 +28,11 @@
           "minOSVersion": "13.0",
           "localizedDescription": "Map Menu"
         }
-      ]
+      ],
+      "tags": [
+        "game"
+      ],
+      "category": "games"
     }
   ],
   "news": []
