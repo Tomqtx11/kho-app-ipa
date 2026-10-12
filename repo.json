@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "1.64",
+          "date": "2026-10-12T13:18:00Z",
+          "size": 223351625,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64-955801aca6/Lien-Quan-Mobile-1.64.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Menu chức năng\n-Hack map\n-Cam xa\n-Aim bot,…",
+          "sha256": "35292eaa62e39134bf8ff8cde63c0ffa97641e59e62837da6fd54ce0f16f4c71",
+          "_githubReleaseId": 410619081,
+          "_githubTag": "ipa-com.garena.game.kgvn2222-1.64-955801aca6",
+          "_ipaBundleIdentifier": "com.garena.game.kgvn2222"
+        }
+      ],
+      "version": "1.64",
+      "size": 223351625,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64-955801aca6/Lien-Quan-Mobile-1.64.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "35292eaa62e39134bf8ff8cde63c0ffa97641e59e62837da6fd54ce0f16f4c71",
+      "name": "Liên Quân Mobile",
+      "bundleIdentifier": "com.garena.game.kgvn2222",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Menu chức năng\n-Hack map\n-Cam xa\n-Aim bot,…",
+      "iconURL": "https://play-lh.googleusercontent.com/29k6AAX1NYWPdnRmVm86NgvDlywy9o3TnNBJrbHWm3emdLB2dGrxdgc05f621I1kMVSph8U1igCpx3XTdS8blQ",
+      "versionDate": "2026-10-12T13:18:00Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 410619081,
+        "tag": "ipa-com.garena.game.kgvn2222-1.64-955801aca6",
+        "originalURL": "https://www.mediafire.com/file/mim5gtjy67c5w3s/menu_1.64.11768577_1791720817.ipa/file",
+        "ipaBundleIdentifier": "com.garena.game.kgvn2222"
+      },
+      "screenshotURLs": [
+        "https://i.imgur.com/HAzWHjr.jpeg"
+      ]
+    },
+    {
+      "versions": [
+        {
           "version": "582.0.0",
           "date": "2026-10-12T12:50:55Z",
           "size": 126706256,
