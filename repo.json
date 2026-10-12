@@ -69,6 +69,44 @@
         "originalURL": ""
       },
       "screenshotURLs": []
+    },
+    {
+      "versions": [
+        {
+          "version": "46.7.0",
+          "date": "2026-10-12T11:36:31Z",
+          "size": 439226933,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/untagged-3babbb052d3a67226f1b/TikTok-46.7.0.ipa",
+          "minOSVersion": "14.0",
+          "localizedDescription": "Thêm ảnh bìa background",
+          "sha256": "c4ba989f7e28676ba6698af8074c01c10c5a00ad41cb4a3635aded41896a10c3",
+          "_githubReleaseId": 410537183,
+          "_githubTag": "ipa-com.zhiliaoapp.musically-46.7.0-ea4a6671f2"
+        }
+      ],
+      "version": "46.7.0",
+      "size": 439226933,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/untagged-3babbb052d3a67226f1b/TikTok-46.7.0.ipa",
+      "minOSVersion": "14.0",
+      "sha256": "c4ba989f7e28676ba6698af8074c01c10c5a00ad41cb4a3635aded41896a10c3",
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Thêm ảnh bìa background",
+      "iconURL": "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/c793ec5430b28c9d157f34562a0596b9",
+      "versionDate": "2026-10-12T11:36:31Z",
+      "tags": [
+        "video",
+        "media",
+        "social"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 410537183,
+        "tag": "ipa-com.zhiliaoapp.musically-46.7.0-ea4a6671f2",
+        "originalURL": "https://www.mediafire.com/file/f2mi97g6z3sp5xv/Tiktok_background.ipa/file"
+      },
+      "screenshotURLs": []
     }
   ],
   "news": []
