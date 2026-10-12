@@ -9,6 +9,43 @@
     {
       "versions": [
         {
+          "version": "582.0.0",
+          "date": "2026-10-12T12:50:55Z",
+          "size": 126706256,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.facebook.Messenger-582.0.0-836feaa0e5/Messenger-582.0.0.ipa",
+          "minOSVersion": "15.1",
+          "localizedDescription": "Tắt seen\nẩn đang soạn tin\nchống thu hồi\nchụp màn hình\nẩn quảng cáo",
+          "sha256": "4cc3c13eaae01125257c2cab3c9b453f8c3efdba19ee3ed42765031f6ba93328",
+          "_githubReleaseId": 410595927,
+          "_githubTag": "ipa-com.facebook.Messenger-582.0.0-836feaa0e5",
+          "_ipaBundleIdentifier": "com.facebook.Messenger"
+        }
+      ],
+      "version": "582.0.0",
+      "size": 126706256,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.facebook.Messenger-582.0.0-836feaa0e5/Messenger-582.0.0.ipa",
+      "minOSVersion": "15.1",
+      "sha256": "4cc3c13eaae01125257c2cab3c9b453f8c3efdba19ee3ed42765031f6ba93328",
+      "name": "Messenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Tắt seen\nẩn đang soạn tin\nchống thu hồi\nchụp màn hình\nẩn quảng cáo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/e4/23/86e423d8-1d2d-737d-d1c3-e6a79bb137c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-12T12:50:55Z",
+      "tags": [
+        "social"
+      ],
+      "category": "social",
+      "_manager": {
+        "releaseId": 410595927,
+        "tag": "ipa-com.facebook.Messenger-582.0.0-836feaa0e5",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.facebook.Messenger"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "570.0.0",
           "date": "2026-10-12T12:46:17Z",
           "size": 198238456,
