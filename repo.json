@@ -9,6 +9,44 @@
     {
       "versions": [
         {
+          "version": "450.1.0",
+          "date": "2026-10-12T12:38:01Z",
+          "size": 349824895,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.burbn.instagram-450.1.0-c7aad87560/Instagram-450.1.0.ipa",
+          "minOSVersion": "16.3",
+          "localizedDescription": "Bản mod Regram",
+          "sha256": "0c206c03b5522bc649baa18da963cbfba3deb048ac0bba048728a248c2ec7215",
+          "_githubReleaseId": 410585315,
+          "_githubTag": "ipa-com.burbn.instagram-450.1.0-c7aad87560",
+          "_ipaBundleIdentifier": "com.burbn.instagram"
+        }
+      ],
+      "version": "450.1.0",
+      "size": 349824895,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.burbn.instagram-450.1.0-c7aad87560/Instagram-450.1.0.ipa",
+      "minOSVersion": "16.3",
+      "sha256": "0c206c03b5522bc649baa18da963cbfba3deb048ac0bba048728a248c2ec7215",
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Bản mod Regram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/17/93/30179310-7a32-f8b3-5b31-a01addf6c367/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-12T12:38:01Z",
+      "tags": [
+        "social",
+        "photo"
+      ],
+      "category": "social",
+      "_manager": {
+        "releaseId": 410585315,
+        "tag": "ipa-com.burbn.instagram-450.1.0-c7aad87560",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.burbn.instagram"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "2.6.1",
           "date": "2026-10-12T12:14:05Z",
           "size": 38047749,
