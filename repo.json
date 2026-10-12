@@ -7,66 +7,74 @@
   "sourceURL": "https://tomqtx11.github.io/kho-app-ipa/repo.json",
   "apps": [
     {
-      "name": "Arena of Valor",
-      "bundleIdentifier": "com.ngame.allstar.eu",
-      "developerName": "CSign Mod",
-      "subtitle": "Map Menu",
-      "localizedDescription": "Map Menu",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a3/d8/2aa3d842-1490-70c3-f31d-a52c205d9c82/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "version": "1.64.11768514",
-      "versionDate": "2026-10-12",
-      "size": 229040646,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
-      "minOSVersion": "13.0",
-      "sha256": "6693de61ca44334aff937edd2f6fa3ed8e2d31b0038f6b74361a2884815c26c3",
       "versions": [
         {
-          "version": "1.64.11768514",
-          "date": "2026-10-12",
-          "size": 229040646,
-          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
-          "minOSVersion": "13.0",
-          "localizedDescription": "Map Menu"
+          "version": "2.6.1",
+          "date": "2026-10-12T12:14:05Z",
+          "size": 38047749,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lapro.AvatarDK-2.6.1-0552519afd/AvatarDK-2.6.1.ipa",
+          "minOSVersion": "11.0",
+          "localizedDescription": "Mod một số chức năng",
+          "sha256": "8bf74afcab1ed5f9e116dabcb23c673ff5e4fc0bbe45ec440f69ba4b999962dc",
+          "_githubReleaseId": 410567697,
+          "_githubTag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd"
         }
       ],
-      "tags": [
-        "game"
-      ],
-      "category": "games"
-    },
-    {
-      "versions": [
-        {
-          "version": "18.600.7",
-          "date": "2026-10-12T11:21:58Z",
-          "size": 560667983,
-          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nc.ios-18.600.7-b88ed92d4b/Clash-of-Clans-18.600.7.ipa",
-          "minOSVersion": "15.0",
-          "localizedDescription": "server mod",
-          "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
-          "_githubReleaseId": 410525241,
-          "_githubTag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b"
-        }
-      ],
-      "version": "18.600.7",
-      "size": 560667983,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nc.ios-18.600.7-b88ed92d4b/Clash-of-Clans-18.600.7.ipa",
-      "minOSVersion": "15.0",
-      "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
-      "name": "Clash of Clans",
-      "bundleIdentifier": "nt.nc.ios",
+      "version": "2.6.1",
+      "size": 38047749,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lapro.AvatarDK-2.6.1-0552519afd/AvatarDK-2.6.1.ipa",
+      "minOSVersion": "11.0",
+      "sha256": "8bf74afcab1ed5f9e116dabcb23c673ff5e4fc0bbe45ec440f69ba4b999962dc",
+      "name": "AvatarDK",
+      "bundleIdentifier": "com.lapro.AvatarDK",
       "developerName": "CSign Mod",
-      "localizedDescription": "server mod",
-      "iconURL": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
-      "versionDate": "2026-10-12T11:21:58Z",
+      "localizedDescription": "Mod một số chức năng",
+      "iconURL": "https://play-lh.googleusercontent.com/2Fg3Xx89h38GtbjIvl_MEtfHvsGK9YTViAuFOvM2-CXCAlszaDcLPr1OcjBMagbUQkcX1zp0uYAXom9cD7DztGY",
+      "versionDate": "2026-10-12T12:14:05Z",
       "tags": [
         "game"
       ],
       "category": "games",
       "_manager": {
-        "releaseId": 410525241,
-        "tag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b",
+        "releaseId": 410567697,
+        "tag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd",
         "originalURL": ""
+      }
+    },
+    {
+      "versions": [
+        {
+          "version": "21.02.3",
+          "date": "2026-10-12T12:04:19Z",
+          "size": 127746378,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8/YouTube-21.02.3.ipa",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Mod Premium",
+          "sha256": "2885fdf0d6c5f0272541bf66b58d250417f447e879c12dc215e036a09a287202",
+          "_githubReleaseId": 410560175,
+          "_githubTag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8"
+        }
+      ],
+      "version": "21.02.3",
+      "size": 127746378,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8/YouTube-21.02.3.ipa",
+      "minOSVersion": "16.0",
+      "sha256": "2885fdf0d6c5f0272541bf66b58d250417f447e879c12dc215e036a09a287202",
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Mod Premium",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cc/4d/9dcc4d29-3199-cfdb-da1e-64ec30a4046b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-12T12:04:19Z",
+      "tags": [
+        "video",
+        "media"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 410560175,
+        "tag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8",
+        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T12%3A58%3A49Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T11%3A58%3A16Z&ske=2026-10-12T12%3A58%3A49Z&sks=b&skv=2018-11-09&sig=nrzE9tYeRl%2FP3Yslm9jIcBApl4bKHpTURXsQh%2FLZrpM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMDA0MiwibmJmIjoxNzkxODA2NDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0l37J_mUj_r0jUz8hf11asnJZECfiBtFc6lebavsEoQ&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
       }
     },
     {
@@ -109,73 +117,65 @@
     {
       "versions": [
         {
-          "version": "21.02.3",
-          "date": "2026-10-12T12:04:19Z",
-          "size": 127746378,
-          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8/YouTube-21.02.3.ipa",
-          "minOSVersion": "16.0",
-          "localizedDescription": "Mod Premium",
-          "sha256": "2885fdf0d6c5f0272541bf66b58d250417f447e879c12dc215e036a09a287202",
-          "_githubReleaseId": 410560175,
-          "_githubTag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8"
+          "version": "18.600.7",
+          "date": "2026-10-12T11:21:58Z",
+          "size": 560667983,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nc.ios-18.600.7-b88ed92d4b/Clash-of-Clans-18.600.7.ipa",
+          "minOSVersion": "15.0",
+          "localizedDescription": "server mod",
+          "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
+          "_githubReleaseId": 410525241,
+          "_githubTag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b"
         }
       ],
-      "version": "21.02.3",
-      "size": 127746378,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8/YouTube-21.02.3.ipa",
-      "minOSVersion": "16.0",
-      "sha256": "2885fdf0d6c5f0272541bf66b58d250417f447e879c12dc215e036a09a287202",
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "18.600.7",
+      "size": 560667983,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nc.ios-18.600.7-b88ed92d4b/Clash-of-Clans-18.600.7.ipa",
+      "minOSVersion": "15.0",
+      "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
+      "name": "Clash of Clans",
+      "bundleIdentifier": "nt.nc.ios",
       "developerName": "CSign Mod",
-      "localizedDescription": "Mod Premium",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cc/4d/9dcc4d29-3199-cfdb-da1e-64ec30a4046b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "versionDate": "2026-10-12T12:04:19Z",
-      "tags": [
-        "video",
-        "media"
-      ],
-      "category": "photo-video",
-      "_manager": {
-        "releaseId": 410560175,
-        "tag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8",
-        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T12%3A58%3A49Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T11%3A58%3A16Z&ske=2026-10-12T12%3A58%3A49Z&sks=b&skv=2018-11-09&sig=nrzE9tYeRl%2FP3Yslm9jIcBApl4bKHpTURXsQh%2FLZrpM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMDA0MiwibmJmIjoxNzkxODA2NDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0l37J_mUj_r0jUz8hf11asnJZECfiBtFc6lebavsEoQ&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
-      }
-    },
-    {
-      "versions": [
-        {
-          "version": "2.6.1",
-          "date": "2026-10-12T12:14:05Z",
-          "size": 38047749,
-          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lapro.AvatarDK-2.6.1-0552519afd/AvatarDK-2.6.1.ipa",
-          "minOSVersion": "11.0",
-          "localizedDescription": "Mod một số chức năng",
-          "sha256": "8bf74afcab1ed5f9e116dabcb23c673ff5e4fc0bbe45ec440f69ba4b999962dc",
-          "_githubReleaseId": 410567697,
-          "_githubTag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd"
-        }
-      ],
-      "version": "2.6.1",
-      "size": 38047749,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lapro.AvatarDK-2.6.1-0552519afd/AvatarDK-2.6.1.ipa",
-      "minOSVersion": "11.0",
-      "sha256": "8bf74afcab1ed5f9e116dabcb23c673ff5e4fc0bbe45ec440f69ba4b999962dc",
-      "name": "AvatarDK",
-      "bundleIdentifier": "com.lapro.AvatarDK",
-      "developerName": "CSign Mod",
-      "localizedDescription": "Mod một số chức năng",
-      "iconURL": "https://play-lh.googleusercontent.com/2Fg3Xx89h38GtbjIvl_MEtfHvsGK9YTViAuFOvM2-CXCAlszaDcLPr1OcjBMagbUQkcX1zp0uYAXom9cD7DztGY",
-      "versionDate": "2026-10-12T12:14:05Z",
+      "localizedDescription": "server mod",
+      "iconURL": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
+      "versionDate": "2026-10-12T11:21:58Z",
       "tags": [
         "game"
       ],
       "category": "games",
       "_manager": {
-        "releaseId": 410567697,
-        "tag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd",
+        "releaseId": 410525241,
+        "tag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b",
         "originalURL": ""
       }
+    },
+    {
+      "name": "Arena of Valor",
+      "bundleIdentifier": "com.ngame.allstar.eu",
+      "developerName": "CSign Mod",
+      "subtitle": "Map Menu",
+      "localizedDescription": "Map Menu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a3/d8/2aa3d842-1490-70c3-f31d-a52c205d9c82/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "version": "1.64.11768514",
+      "versionDate": "2026-10-12",
+      "size": 229040646,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
+      "minOSVersion": "13.0",
+      "sha256": "6693de61ca44334aff937edd2f6fa3ed8e2d31b0038f6b74361a2884815c26c3",
+      "versions": [
+        {
+          "version": "1.64.11768514",
+          "date": "2026-10-12",
+          "size": 229040646,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
+          "minOSVersion": "13.0",
+          "localizedDescription": "Map Menu"
+        }
+      ],
+      "tags": [
+        "game"
+      ],
+      "category": "games"
     }
   ],
   "news": []
