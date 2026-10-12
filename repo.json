@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "15.535.13",
+          "date": "2026-10-12T15:05:54Z",
+          "size": 765149432,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nr.ios-15.535.13-8256723788/Null-s-Royale-15.535.13.ipa",
+          "minOSVersion": "14.0",
+          "localizedDescription": "Server mod",
+          "sha256": "0fe89a9425078436c604ed878495f04c751600cb8b4012393606ba6587a16f04",
+          "_githubReleaseId": 410725692,
+          "_githubTag": "ipa-nt.nr.ios-15.535.13-8256723788",
+          "_ipaBundleIdentifier": "nt.nr.ios"
+        }
+      ],
+      "version": "15.535.13",
+      "size": 765149432,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nr.ios-15.535.13-8256723788/Null-s-Royale-15.535.13.ipa",
+      "minOSVersion": "14.0",
+      "sha256": "0fe89a9425078436c604ed878495f04c751600cb8b4012393606ba6587a16f04",
+      "name": "Null's Royale",
+      "bundleIdentifier": "nt.nr.ios",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Server mod",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfmAY9wAiWrV9nFif95sRrIK4BYESPeyobMwJ_A_5T5sWRDC2wqA48v8a&s=10",
+      "versionDate": "2026-10-12T15:05:54Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 410725692,
+        "tag": "ipa-nt.nr.ios-15.535.13-8256723788",
+        "originalURL": "",
+        "ipaBundleIdentifier": "nt.nr.ios"
+      },
+      "screenshotURLs": [
+        "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg"
+      ]
+    },
+    {
+      "versions": [
+        {
           "version": "2.67.0",
           "date": "2026-10-12T13:22:09Z",
           "size": 95093398,
