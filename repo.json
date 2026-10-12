@@ -1,0 +1,35 @@
+{
+  "name": "Kho App IPA",
+  "identifier": "io.github.tomqtx11.khoappipa",
+  "subtitle": "Kho ứng dụng IPA",
+  "iconURL": "https://i.imgur.com/0qP4rvM.jpeg",
+  "website": "https://github.com/Tomqtx11/kho-app-ipa",
+  "sourceURL": "https://tomqtx11.github.io/kho-app-ipa/repo.json",
+  "apps": [
+    {
+      "name": "Arena of Valor",
+      "bundleIdentifier": "com.ngame.allstar.eu",
+      "developerName": "Level Infinite",
+      "subtitle": "Map Menu",
+      "localizedDescription": "Map Menu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a3/d8/2aa3d842-1490-70c3-f31d-a52c205d9c82/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "version": "1.64.11768514",
+      "versionDate": "2026-10-12",
+      "size": 229040646,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
+      "minOSVersion": "13.0",
+      "sha256": "6693de61ca44334aff937edd2f6fa3ed8e2d31b0038f6b74361a2884815c26c3",
+      "versions": [
+        {
+          "version": "1.64.11768514",
+          "date": "2026-10-12",
+          "size": 229040646,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/aov-1.64.11768514/Arena-of-Valor-EU.ipa",
+          "minOSVersion": "13.0",
+          "localizedDescription": "Map Menu"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
