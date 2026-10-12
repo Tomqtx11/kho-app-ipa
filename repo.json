@@ -134,7 +134,7 @@
       "minOSVersion": "15.0",
       "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
       "name": "Clash of Clans",
-      "bundleIdentifier": "nt.nc.ios",
+      "bundleIdentifier": "com.supercell.clashofclans",
       "developerName": "CSign Mod",
       "localizedDescription": "server mod",
       "iconURL": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
@@ -146,7 +146,8 @@
       "_manager": {
         "releaseId": 410525241,
         "tag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b",
-        "originalURL": ""
+        "originalURL": "",
+        "ipaBundleIdentifier": "nt.nc.ios"
       }
     },
     {
