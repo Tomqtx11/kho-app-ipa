@@ -9,6 +9,43 @@
     {
       "versions": [
         {
+          "version": "9.1.28",
+          "date": "2026-10-13T07:38:08Z",
+          "size": 98550865,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.spotify.client-9.1.28-93867d0fb4/Spotify-9.1.28.ipa",
+          "minOSVersion": "16.1",
+          "localizedDescription": "Mod Premium",
+          "sha256": "bfbc0e5e2524cd4169041da40e266a4007aaaae2f55454f5b09f6a7992d79f42",
+          "_githubReleaseId": 411414295,
+          "_githubTag": "ipa-com.spotify.client-9.1.28-93867d0fb4",
+          "_ipaBundleIdentifier": "com.spotify.client"
+        }
+      ],
+      "version": "9.1.28",
+      "size": 98550865,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.spotify.client-9.1.28-93867d0fb4/Spotify-9.1.28.ipa",
+      "minOSVersion": "16.1",
+      "sha256": "bfbc0e5e2524cd4169041da40e266a4007aaaae2f55454f5b09f6a7992d79f42",
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Mod Premium",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/af/e8/b2afe87d-2d6a-8e4b-01bf-73b5752996dc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-13T07:38:08Z",
+      "tags": [
+        "media"
+      ],
+      "category": "entertainment",
+      "_manager": {
+        "releaseId": 411414295,
+        "tag": "ipa-com.spotify.client-9.1.28-93867d0fb4",
+        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/1b03e8b1-bc6e-4330-bae9-8abc3371b356?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T08%3A25%3A45Z&rscd=attachment%3B+filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T07%3A25%3A33Z&ske=2026-10-13T08%3A25%3A45Z&sks=b&skv=2018-11-09&sig=Fart3JrxFVhPCr6YQy%2FK4g%2BFvJPGuS0ApG3FjhXM9VU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg3ODc5NywibmJmIjoxNzkxODc2OTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NrBTk-9HUQvPj-8TFZghz7fO_fOD2DuiH12VwyAzkpc&response-content-disposition=attachment%3B%20filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
+        "ipaBundleIdentifier": "com.spotify.client"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "1.21.124",
           "date": "2026-10-13T07:34:54Z",
           "size": 585589655,
