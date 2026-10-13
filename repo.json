@@ -9,6 +9,43 @@
     {
       "versions": [
         {
+          "version": "3.5.2",
+          "date": "2026-10-13T00:01:33Z",
+          "size": 27327872,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.ruikq.decar-3.5.2-9229618d97/Loon-3.5.2.ipa",
+          "minOSVersion": "15.0",
+          "localizedDescription": "Công cụ proxy\nHỗ trợ tối thiểu hệ điều hành iOS 15.0 trở lên",
+          "sha256": "dd8ae077bf062f0718f7fc9a8e20fffe7a01f3df322a8b602e89f46e0f915c14",
+          "_githubReleaseId": 411090507,
+          "_githubTag": "ipa-com.ruikq.decar-3.5.2-9229618d97",
+          "_ipaBundleIdentifier": "com.ruikq.decar"
+        }
+      ],
+      "version": "3.5.2",
+      "size": 27327872,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.ruikq.decar-3.5.2-9229618d97/Loon-3.5.2.ipa",
+      "minOSVersion": "15.0",
+      "sha256": "dd8ae077bf062f0718f7fc9a8e20fffe7a01f3df322a8b602e89f46e0f915c14",
+      "name": "Loon",
+      "bundleIdentifier": "com.ruikq.decar",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Công cụ proxy\nHỗ trợ tối thiểu hệ điều hành iOS 15.0 trở lên",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/de/2f/02de2f2d-c553-349d-acc0-85061f79d674/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-13T00:01:33Z",
+      "tags": [
+        "utility"
+      ],
+      "category": "utilities",
+      "_manager": {
+        "releaseId": 411090507,
+        "tag": "ipa-com.ruikq.decar-3.5.2-9229618d97",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.ruikq.decar"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "15.535.13",
           "date": "2026-10-12T15:05:54Z",
           "size": 765149432,
