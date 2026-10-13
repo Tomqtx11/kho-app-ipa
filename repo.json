@@ -9,6 +9,43 @@
     {
       "versions": [
         {
+          "version": "7.142.0",
+          "date": "2026-10-13T11:54:34Z",
+          "size": 212538356,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197/Duolingo-7.142.0.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Mod Max",
+          "sha256": "9fad6e647c7abe8ee32f34bc0b8898d20ab802f6e527373cb9e0f300a46f53b8",
+          "_githubReleaseId": 411621233,
+          "_githubTag": "ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197",
+          "_ipaBundleIdentifier": "com.duolingo.DuolingoMobile"
+        }
+      ],
+      "version": "7.142.0",
+      "size": 212538356,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197/Duolingo-7.142.0.ipa",
+      "minOSVersion": "17.0",
+      "sha256": "9fad6e647c7abe8ee32f34bc0b8898d20ab802f6e527373cb9e0f300a46f53b8",
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Mod Max",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/f8/4c/70f84cd4-f8f0-5d64-8b3a-f5d395293b80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-13T11:54:34Z",
+      "tags": [
+        "education"
+      ],
+      "category": "education",
+      "_manager": {
+        "releaseId": 411621233,
+        "tag": "ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197",
+        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/7815f31a-ee64-4bcc-8011-323ff647b14a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T12%3A26%3A28Z&rscd=attachment%3B+filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T11%3A25%3A37Z&ske=2026-10-13T12%3A26%3A28Z&sks=b&skv=2018-11-09&sig=JRo1sDcYMUiGb4MnDnNcFLdHOeNcqpE9FM4u5de0%2BZU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg5NTU4MiwibmJmIjoxNzkxODkxOTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lGG_mzSXRUpzap-NezBThvOO7Z3lCDSBWMlqRmQeNC8&response-content-disposition=attachment%3B%20filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
+        "ipaBundleIdentifier": "com.duolingo.DuolingoMobile"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "9.1.28",
           "date": "2026-10-13T07:38:08Z",
           "size": 98550865,
