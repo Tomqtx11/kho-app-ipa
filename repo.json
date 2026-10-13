@@ -18,7 +18,9 @@
           "sha256": "9fad6e647c7abe8ee32f34bc0b8898d20ab802f6e527373cb9e0f300a46f53b8",
           "_githubReleaseId": 411621233,
           "_githubTag": "ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197",
-          "_ipaBundleIdentifier": "com.duolingo.DuolingoMobile"
+          "_ipaBundleIdentifier": "com.duolingo.DuolingoMobile",
+          "_ipaVersion": "7.142.0",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/7815f31a-ee64-4bcc-8011-323ff647b14a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T12%3A26%3A28Z&rscd=attachment%3B+filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T11%3A25%3A37Z&ske=2026-10-13T12%3A26%3A28Z&sks=b&skv=2018-11-09&sig=JRo1sDcYMUiGb4MnDnNcFLdHOeNcqpE9FM4u5de0%2BZU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg5NTU4MiwibmJmIjoxNzkxODkxOTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lGG_mzSXRUpzap-NezBThvOO7Z3lCDSBWMlqRmQeNC8&response-content-disposition=attachment%3B%20filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "7.142.0",
@@ -40,7 +42,8 @@
         "releaseId": 411621233,
         "tag": "ipa-com.duolingo.DuolingoMobile-7.142.0-0cc3955197",
         "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/7815f31a-ee64-4bcc-8011-323ff647b14a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T12%3A26%3A28Z&rscd=attachment%3B+filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T11%3A25%3A37Z&ske=2026-10-13T12%3A26%3A28Z&sks=b&skv=2018-11-09&sig=JRo1sDcYMUiGb4MnDnNcFLdHOeNcqpE9FM4u5de0%2BZU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg5NTU4MiwibmJmIjoxNzkxODkxOTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lGG_mzSXRUpzap-NezBThvOO7Z3lCDSBWMlqRmQeNC8&response-content-disposition=attachment%3B%20filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.duolingo.DuolingoMobile"
+        "ipaBundleIdentifier": "com.duolingo.DuolingoMobile",
+        "ipaVersion": "7.142.0"
       }
     },
     {
@@ -55,7 +58,9 @@
           "sha256": "bfbc0e5e2524cd4169041da40e266a4007aaaae2f55454f5b09f6a7992d79f42",
           "_githubReleaseId": 411414295,
           "_githubTag": "ipa-com.spotify.client-9.1.28-93867d0fb4",
-          "_ipaBundleIdentifier": "com.spotify.client"
+          "_ipaBundleIdentifier": "com.spotify.client",
+          "_ipaVersion": "9.1.28",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/1b03e8b1-bc6e-4330-bae9-8abc3371b356?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T08%3A25%3A45Z&rscd=attachment%3B+filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T07%3A25%3A33Z&ske=2026-10-13T08%3A25%3A45Z&sks=b&skv=2018-11-09&sig=Fart3JrxFVhPCr6YQy%2FK4g%2BFvJPGuS0ApG3FjhXM9VU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg3ODc5NywibmJmIjoxNzkxODc2OTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NrBTk-9HUQvPj-8TFZghz7fO_fOD2DuiH12VwyAzkpc&response-content-disposition=attachment%3B%20filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "9.1.28",
@@ -77,7 +82,8 @@
         "releaseId": 411414295,
         "tag": "ipa-com.spotify.client-9.1.28-93867d0fb4",
         "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/1b03e8b1-bc6e-4330-bae9-8abc3371b356?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T08%3A25%3A45Z&rscd=attachment%3B+filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T07%3A25%3A33Z&ske=2026-10-13T08%3A25%3A45Z&sks=b&skv=2018-11-09&sig=Fart3JrxFVhPCr6YQy%2FK4g%2BFvJPGuS0ApG3FjhXM9VU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg3ODc5NywibmJmIjoxNzkxODc2OTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NrBTk-9HUQvPj-8TFZghz7fO_fOD2DuiH12VwyAzkpc&response-content-disposition=attachment%3B%20filename%3DSpotify_9.1.28_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.spotify.client"
+        "ipaBundleIdentifier": "com.spotify.client",
+        "ipaVersion": "9.1.28"
       }
     },
     {
@@ -92,7 +98,9 @@
           "sha256": "099f1f9dc0ec316f4d8eb08354f50c59476d46a955a258560eea83e920149f8b",
           "_githubReleaseId": 411410492,
           "_githubTag": "ipa-com.mojang.minecraftpe-1.21.124-198bc93d7d",
-          "_ipaBundleIdentifier": "com.mojang.minecraftpe"
+          "_ipaBundleIdentifier": "com.mojang.minecraftpe",
+          "_ipaVersion": "1.21.124",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9ae3b21d-c127-4fd8-bdce-64de8b9f35d8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T07%3A59%3A06Z&rscd=attachment%3B+filename%3DMinecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T06%3A59%3A06Z&ske=2026-10-13T07%3A59%3A06Z&sks=b&skv=2018-11-09&sig=19mmxQP4fzQya7AH8VLy%2BYW5tjT%2BQiFRQkLlpvz1eV4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg3OTM4MiwibmJmIjoxNzkxODc1NzgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.MVsY8QLBcwhC9HgPgvHNoZTzctjjXRhGhSOctx58id0&response-content-disposition=attachment%3B%20filename%3DMinecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "1.21.124",
@@ -114,7 +122,8 @@
         "releaseId": 411410492,
         "tag": "ipa-com.mojang.minecraftpe-1.21.124-198bc93d7d",
         "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9ae3b21d-c127-4fd8-bdce-64de8b9f35d8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T07%3A59%3A06Z&rscd=attachment%3B+filename%3DMinecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T06%3A59%3A06Z&ske=2026-10-13T07%3A59%3A06Z&sks=b&skv=2018-11-09&sig=19mmxQP4fzQya7AH8VLy%2BYW5tjT%2BQiFRQkLlpvz1eV4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg3OTM4MiwibmJmIjoxNzkxODc1NzgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.MVsY8QLBcwhC9HgPgvHNoZTzctjjXRhGhSOctx58id0&response-content-disposition=attachment%3B%20filename%3DMinecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.mojang.minecraftpe"
+        "ipaBundleIdentifier": "com.mojang.minecraftpe",
+        "ipaVersion": "1.21.124"
       }
     },
     {
@@ -129,7 +138,8 @@
           "sha256": "e2deb95c70a85f4a706cec26f226b4cc37757c7586a565b1ce15ea03c81f059b",
           "_githubReleaseId": 411130518,
           "_githubTag": "ipa-com.t4mag0.vidgrab-1.3.6a-3c4746147c",
-          "_ipaBundleIdentifier": "com.t4mag0.vidgrab"
+          "_ipaBundleIdentifier": "com.t4mag0.vidgrab",
+          "_ipaVersion": "1.3.6a"
         }
       ],
       "version": "1.3.6a",
@@ -151,7 +161,8 @@
         "releaseId": 411130518,
         "tag": "ipa-com.t4mag0.vidgrab-1.3.6a-3c4746147c",
         "originalURL": "",
-        "ipaBundleIdentifier": "com.t4mag0.vidgrab"
+        "ipaBundleIdentifier": "com.t4mag0.vidgrab",
+        "ipaVersion": "1.3.6a"
       }
     },
     {
@@ -166,7 +177,9 @@
           "sha256": "d0aad6a25c2c727e9f916cab0f11280213beeafc9150da7b12da5ecdf445b976",
           "_githubReleaseId": 411098547,
           "_githubTag": "ipa-nt.nb.ios-69.252-0181b1da39",
-          "_ipaBundleIdentifier": "nt.nb.ios"
+          "_ipaBundleIdentifier": "nt.nb.ios",
+          "_ipaVersion": "69.252",
+          "_originalURL": "https://dnull.xyz/latest_bs_i"
         }
       ],
       "version": "69.252",
@@ -188,7 +201,8 @@
         "releaseId": 411098547,
         "tag": "ipa-nt.nb.ios-69.252-0181b1da39",
         "originalURL": "https://dnull.xyz/latest_bs_i",
-        "ipaBundleIdentifier": "nt.nb.ios"
+        "ipaBundleIdentifier": "nt.nb.ios",
+        "ipaVersion": "69.252"
       }
     },
     {
@@ -203,7 +217,8 @@
           "sha256": "dd8ae077bf062f0718f7fc9a8e20fffe7a01f3df322a8b602e89f46e0f915c14",
           "_githubReleaseId": 411090507,
           "_githubTag": "ipa-com.ruikq.decar-3.5.2-9229618d97",
-          "_ipaBundleIdentifier": "com.ruikq.decar"
+          "_ipaBundleIdentifier": "com.ruikq.decar",
+          "_ipaVersion": "3.5.2"
         }
       ],
       "version": "3.5.2",
@@ -225,7 +240,8 @@
         "releaseId": 411090507,
         "tag": "ipa-com.ruikq.decar-3.5.2-9229618d97",
         "originalURL": "",
-        "ipaBundleIdentifier": "com.ruikq.decar"
+        "ipaBundleIdentifier": "com.ruikq.decar",
+        "ipaVersion": "3.5.2"
       }
     },
     {
@@ -240,7 +256,8 @@
           "sha256": "0fe89a9425078436c604ed878495f04c751600cb8b4012393606ba6587a16f04",
           "_githubReleaseId": 410725692,
           "_githubTag": "ipa-nt.nr.ios-15.535.13-8256723788",
-          "_ipaBundleIdentifier": "nt.nr.ios"
+          "_ipaBundleIdentifier": "nt.nr.ios",
+          "_ipaVersion": "15.535.13"
         }
       ],
       "version": "15.535.13",
@@ -262,7 +279,8 @@
         "releaseId": 410725692,
         "tag": "ipa-nt.nr.ios-15.535.13-8256723788",
         "originalURL": "",
-        "ipaBundleIdentifier": "nt.nr.ios"
+        "ipaBundleIdentifier": "nt.nr.ios",
+        "ipaVersion": "15.535.13"
       },
       "screenshotURLs": [
         "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg"
@@ -280,7 +298,9 @@
           "sha256": "94eab5e7c479254af2764233d28cebb24b7c3041ce07ed2fbd533f84f6eb34ae",
           "_githubReleaseId": 410623701,
           "_githubTag": "ipa-com.locket.Locket-2.67.0-2820539ce1",
-          "_ipaBundleIdentifier": "com.locket.Locket"
+          "_ipaBundleIdentifier": "com.locket.Locket",
+          "_ipaVersion": "2.67.0",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "2.67.0",
@@ -303,7 +323,8 @@
         "releaseId": 410623701,
         "tag": "ipa-com.locket.Locket-2.67.0-2820539ce1",
         "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.locket.Locket"
+        "ipaBundleIdentifier": "com.locket.Locket",
+        "ipaVersion": "2.67.0"
       }
     },
     {
@@ -318,7 +339,9 @@
           "sha256": "35292eaa62e39134bf8ff8cde63c0ffa97641e59e62837da6fd54ce0f16f4c71",
           "_githubReleaseId": 410619081,
           "_githubTag": "ipa-com.garena.game.kgvn2222-1.64-955801aca6",
-          "_ipaBundleIdentifier": "com.garena.game.kgvn2222"
+          "_ipaBundleIdentifier": "com.garena.game.kgvn2222",
+          "_ipaVersion": "1.64.11768577",
+          "_originalURL": "https://www.mediafire.com/file/mim5gtjy67c5w3s/menu_1.64.11768577_1791720817.ipa/file"
         }
       ],
       "version": "1.64",
@@ -340,7 +363,8 @@
         "releaseId": 410619081,
         "tag": "ipa-com.garena.game.kgvn2222-1.64-955801aca6",
         "originalURL": "https://www.mediafire.com/file/mim5gtjy67c5w3s/menu_1.64.11768577_1791720817.ipa/file",
-        "ipaBundleIdentifier": "com.garena.game.kgvn2222"
+        "ipaBundleIdentifier": "com.garena.game.kgvn2222",
+        "ipaVersion": "1.64.11768577"
       },
       "screenshotURLs": [
         "https://i.imgur.com/HAzWHjr.jpeg"
@@ -358,7 +382,8 @@
           "sha256": "4cc3c13eaae01125257c2cab3c9b453f8c3efdba19ee3ed42765031f6ba93328",
           "_githubReleaseId": 410595927,
           "_githubTag": "ipa-com.facebook.Messenger-582.0.0-836feaa0e5",
-          "_ipaBundleIdentifier": "com.facebook.Messenger"
+          "_ipaBundleIdentifier": "com.facebook.Messenger",
+          "_ipaVersion": "582.0.0"
         }
       ],
       "version": "582.0.0",
@@ -380,7 +405,8 @@
         "releaseId": 410595927,
         "tag": "ipa-com.facebook.Messenger-582.0.0-836feaa0e5",
         "originalURL": "",
-        "ipaBundleIdentifier": "com.facebook.Messenger"
+        "ipaBundleIdentifier": "com.facebook.Messenger",
+        "ipaVersion": "582.0.0"
       }
     },
     {
@@ -395,7 +421,9 @@
           "sha256": "4d7358160fa384f7d9935c2c3e1fe1a7a0fdf5194f744d2d144a3a9d0e823c54",
           "_githubReleaseId": 410592082,
           "_githubTag": "ipa-com.facebook.Facebook-570.0.0-d2d2da3a33",
-          "_ipaBundleIdentifier": "com.facebook.Facebook"
+          "_ipaBundleIdentifier": "com.facebook.Facebook",
+          "_ipaVersion": "570.0.0",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/50b21866-59f8-4582-9ef6-8108120beecf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T13%3A23%3A28Z&rscd=attachment%3B+filename%3DFacebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T12%3A23%3A03Z&ske=2026-10-12T13%3A23%3A28Z&sks=b&skv=2018-11-09&sig=b%2BQ8iAWQSmwfLX5FMxaIu6kbGQtzGcbsIugD9lFVwBs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMjU5NywibmJmIjoxNzkxODA4OTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4PJQ0ZBDZgBjPrlV5F8kfn5ZM3P0zQYtxDMWTKDIia0&response-content-disposition=attachment%3B%20filename%3DFacebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "570.0.0",
@@ -420,7 +448,8 @@
         "releaseId": 410592082,
         "tag": "ipa-com.facebook.Facebook-570.0.0-d2d2da3a33",
         "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/50b21866-59f8-4582-9ef6-8108120beecf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T13%3A23%3A28Z&rscd=attachment%3B+filename%3DFacebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T12%3A23%3A03Z&ske=2026-10-12T13%3A23%3A28Z&sks=b&skv=2018-11-09&sig=b%2BQ8iAWQSmwfLX5FMxaIu6kbGQtzGcbsIugD9lFVwBs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMjU5NywibmJmIjoxNzkxODA4OTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4PJQ0ZBDZgBjPrlV5F8kfn5ZM3P0zQYtxDMWTKDIia0&response-content-disposition=attachment%3B%20filename%3DFacebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.facebook.Facebook"
+        "ipaBundleIdentifier": "com.facebook.Facebook",
+        "ipaVersion": "570.0.0"
       }
     },
     {
@@ -435,7 +464,8 @@
           "sha256": "0c206c03b5522bc649baa18da963cbfba3deb048ac0bba048728a248c2ec7215",
           "_githubReleaseId": 410585315,
           "_githubTag": "ipa-com.burbn.instagram-450.1.0-c7aad87560",
-          "_ipaBundleIdentifier": "com.burbn.instagram"
+          "_ipaBundleIdentifier": "com.burbn.instagram",
+          "_ipaVersion": "450.1.0"
         }
       ],
       "version": "450.1.0",
@@ -458,7 +488,8 @@
         "releaseId": 410585315,
         "tag": "ipa-com.burbn.instagram-450.1.0-c7aad87560",
         "originalURL": "",
-        "ipaBundleIdentifier": "com.burbn.instagram"
+        "ipaBundleIdentifier": "com.burbn.instagram",
+        "ipaVersion": "450.1.0"
       }
     },
     {
@@ -472,7 +503,9 @@
           "localizedDescription": "Mod một số chức năng",
           "sha256": "8bf74afcab1ed5f9e116dabcb23c673ff5e4fc0bbe45ec440f69ba4b999962dc",
           "_githubReleaseId": 410567697,
-          "_githubTag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd"
+          "_githubTag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd",
+          "_ipaVersion": "2.6.1",
+          "_ipaBundleIdentifier": "com.lapro.AvatarDK"
         }
       ],
       "version": "2.6.1",
@@ -493,7 +526,9 @@
       "_manager": {
         "releaseId": 410567697,
         "tag": "ipa-com.lapro.AvatarDK-2.6.1-0552519afd",
-        "originalURL": ""
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.lapro.AvatarDK",
+        "ipaVersion": "2.6.1"
       }
     },
     {
@@ -507,7 +542,10 @@
           "localizedDescription": "Mod Premium",
           "sha256": "2885fdf0d6c5f0272541bf66b58d250417f447e879c12dc215e036a09a287202",
           "_githubReleaseId": 410560175,
-          "_githubTag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8"
+          "_githubTag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8",
+          "_ipaVersion": "21.02.3",
+          "_ipaBundleIdentifier": "com.google.ios.youtube",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T12%3A58%3A49Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T11%3A58%3A16Z&ske=2026-10-12T12%3A58%3A49Z&sks=b&skv=2018-11-09&sig=nrzE9tYeRl%2FP3Yslm9jIcBApl4bKHpTURXsQh%2FLZrpM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMDA0MiwibmJmIjoxNzkxODA2NDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0l37J_mUj_r0jUz8hf11asnJZECfiBtFc6lebavsEoQ&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
       "version": "21.02.3",
@@ -529,7 +567,9 @@
       "_manager": {
         "releaseId": 410560175,
         "tag": "ipa-com.google.ios.youtube-21.02.3-d9a78a5ac8",
-        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T12%3A58%3A49Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T11%3A58%3A16Z&ske=2026-10-12T12%3A58%3A49Z&sks=b&skv=2018-11-09&sig=nrzE9tYeRl%2FP3Yslm9jIcBApl4bKHpTURXsQh%2FLZrpM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMDA0MiwibmJmIjoxNzkxODA2NDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0l37J_mUj_r0jUz8hf11asnJZECfiBtFc6lebavsEoQ&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
+        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/6edc453b-4400-4090-a82e-c5bd8283a1e0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T12%3A58%3A49Z&rscd=attachment%3B+filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T11%3A58%3A16Z&ske=2026-10-12T12%3A58%3A49Z&sks=b&skv=2018-11-09&sig=nrzE9tYeRl%2FP3Yslm9jIcBApl4bKHpTURXsQh%2FLZrpM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMDA0MiwibmJmIjoxNzkxODA2NDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0l37J_mUj_r0jUz8hf11asnJZECfiBtFc6lebavsEoQ&response-content-disposition=attachment%3B%20filename%3DYouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
+        "ipaBundleIdentifier": "com.google.ios.youtube",
+        "ipaVersion": "21.02.3"
       }
     },
     {
@@ -543,7 +583,10 @@
           "localizedDescription": "Thêm ảnh bìa background",
           "sha256": "c4ba989f7e28676ba6698af8074c01c10c5a00ad41cb4a3635aded41896a10c3",
           "_githubReleaseId": 410537183,
-          "_githubTag": "ipa-com.zhiliaoapp.musically-46.7.0-ea4a6671f2"
+          "_githubTag": "ipa-com.zhiliaoapp.musically-46.7.0-ea4a6671f2",
+          "_ipaVersion": "46.7.0",
+          "_ipaBundleIdentifier": "com.zhiliaoapp.musically",
+          "_originalURL": "https://www.mediafire.com/file/f2mi97g6z3sp5xv/Tiktok_background.ipa/file"
         }
       ],
       "version": "46.7.0",
@@ -566,7 +609,9 @@
       "_manager": {
         "releaseId": 410537183,
         "tag": "ipa-com.zhiliaoapp.musically-46.7.0-ea4a6671f2",
-        "originalURL": "https://www.mediafire.com/file/f2mi97g6z3sp5xv/Tiktok_background.ipa/file"
+        "originalURL": "https://www.mediafire.com/file/f2mi97g6z3sp5xv/Tiktok_background.ipa/file",
+        "ipaBundleIdentifier": "com.zhiliaoapp.musically",
+        "ipaVersion": "46.7.0"
       }
     },
     {
@@ -580,7 +625,9 @@
           "localizedDescription": "server mod",
           "sha256": "062dccc40205fad5824e0f45d3b7c70f0de9425954eb76d8d2a4c3bf0f82c192",
           "_githubReleaseId": 410525241,
-          "_githubTag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b"
+          "_githubTag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b",
+          "_ipaVersion": "18.600.7",
+          "_ipaBundleIdentifier": "nt.nc.ios"
         }
       ],
       "version": "18.600.7",
@@ -602,7 +649,8 @@
         "releaseId": 410525241,
         "tag": "ipa-nt.nc.ios-18.600.7-b88ed92d4b",
         "originalURL": "",
-        "ipaBundleIdentifier": "nt.nc.ios"
+        "ipaBundleIdentifier": "nt.nc.ios",
+        "ipaVersion": "18.600.7"
       }
     },
     {
