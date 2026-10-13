@@ -9,6 +9,43 @@
     {
       "versions": [
         {
+          "version": "69.252",
+          "date": "2026-10-13T00:18:17Z",
+          "size": 1240656915,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nb.ios-69.252-0181b1da39/Nulls-Brawl-69.252.ipa",
+          "minOSVersion": "14.0",
+          "localizedDescription": "Server mod",
+          "sha256": "d0aad6a25c2c727e9f916cab0f11280213beeafc9150da7b12da5ecdf445b976",
+          "_githubReleaseId": 411098547,
+          "_githubTag": "ipa-nt.nb.ios-69.252-0181b1da39",
+          "_ipaBundleIdentifier": "nt.nb.ios"
+        }
+      ],
+      "version": "69.252",
+      "size": 1240656915,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-nt.nb.ios-69.252-0181b1da39/Nulls-Brawl-69.252.ipa",
+      "minOSVersion": "14.0",
+      "sha256": "d0aad6a25c2c727e9f916cab0f11280213beeafc9150da7b12da5ecdf445b976",
+      "name": "Null’s Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Server mod",
+      "iconURL": "https://allbrawls.net/storage/product-media/icon_6a31b0f63ee3b_thumb.webp",
+      "versionDate": "2026-10-13T00:18:17Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 411098547,
+        "tag": "ipa-nt.nb.ios-69.252-0181b1da39",
+        "originalURL": "https://dnull.xyz/latest_bs_i",
+        "ipaBundleIdentifier": "nt.nb.ios"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "3.5.2",
           "date": "2026-10-13T00:01:33Z",
           "size": 27327872,
