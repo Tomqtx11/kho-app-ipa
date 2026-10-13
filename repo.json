@@ -21,6 +21,20 @@
           "_ipaBundleIdentifier": "com.duolingo.DuolingoMobile",
           "_ipaVersion": "7.142.0",
           "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/7815f31a-ee64-4bcc-8011-323ff647b14a?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T12%3A26%3A28Z&rscd=attachment%3B+filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T11%3A25%3A37Z&ske=2026-10-13T12%3A26%3A28Z&sks=b&skv=2018-11-09&sig=JRo1sDcYMUiGb4MnDnNcFLdHOeNcqpE9FM4u5de0%2BZU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTg5NTU4MiwibmJmIjoxNzkxODkxOTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lGG_mzSXRUpzap-NezBThvOO7Z3lCDSBWMlqRmQeNC8&response-content-disposition=attachment%3B%20filename%3DDuolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
+        },
+        {
+          "version": "7.130.0",
+          "date": "2026-10-13T12:55:53Z",
+          "size": 208793174,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.duolingo.DuolingoMobile-7.130.0-d4a0345c98/Duolingo-7.130.0.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "mod Max",
+          "sha256": "b00dbe24cb4b5dcc96831b0eb5a086aa6bcb9001ca8341f457e38ff6f01d7362",
+          "_githubReleaseId": 411674838,
+          "_githubTag": "ipa-com.duolingo.DuolingoMobile-7.130.0-d4a0345c98",
+          "_ipaBundleIdentifier": "com.duolingo.DuolingoMobile",
+          "_ipaVersion": "7.130.0",
+          "_originalURL": ""
         }
       ],
       "version": "7.142.0",
