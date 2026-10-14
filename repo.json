@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "4.3.0",
+          "date": "2026-10-14T11:39:55Z",
+          "size": 98257164,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-net.mobigame.ZombieCarnaval-4.3.0-9a7a8f1df2/Zombie-Tsunami-4.3.0.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Không quảng cáo - Mua hàng miễn phí - Bấm mua rồi huỷ - Mod Tiếng việt",
+          "sha256": "25b4d08b5af8c74de41c84ae152120450ec93bdbbcd774ae26a5174d1906e6a7",
+          "_githubReleaseId": 412649193,
+          "_githubTag": "ipa-net.mobigame.ZombieCarnaval-4.3.0-9a7a8f1df2",
+          "_ipaBundleIdentifier": "net.mobigame.ZombieCarnaval",
+          "_ipaVersion": "4.3.0",
+          "_originalURL": "https://www.mediafire.com/file/660lh5wk4na1fx6/Zombie_Tsunami_4.3.0.ipa/file"
+        }
+      ],
+      "version": "4.3.0",
+      "size": 98257164,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-net.mobigame.ZombieCarnaval-4.3.0-9a7a8f1df2/Zombie-Tsunami-4.3.0.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "25b4d08b5af8c74de41c84ae152120450ec93bdbbcd774ae26a5174d1906e6a7",
+      "name": "Zombie Tsunami",
+      "bundleIdentifier": "net.mobigame.ZombieCarnaval",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Không quảng cáo - Mua hàng miễn phí - Bấm mua rồi huỷ - Mod Tiếng việt",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/9c/62/559c62c6-3dff-e070-03aa-81589c1f0ec1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-14T11:39:55Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 412649193,
+        "tag": "ipa-net.mobigame.ZombieCarnaval-4.3.0-9a7a8f1df2",
+        "originalURL": "https://www.mediafire.com/file/660lh5wk4na1fx6/Zombie_Tsunami_4.3.0.ipa/file",
+        "ipaBundleIdentifier": "net.mobigame.ZombieCarnaval",
+        "ipaVersion": "4.3.0"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "0.1",
           "date": "2026-10-14T11:38:21Z",
           "size": 17747144,
