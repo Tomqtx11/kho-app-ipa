@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "261001",
+          "date": "2026-10-14T03:26:15Z",
+          "size": 118611057,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-vn.com.vng.zingalo-261001-597a1331a3/Zalo-261001.ipa",
+          "minOSVersion": "15.1",
+          "localizedDescription": "nhân bản\nipa trắng chưa qua chỉnh sửa",
+          "sha256": "da7b25076e3e878e51d77ab3dbb6bca451cc126efed7a924519c3c55d149f02f",
+          "_githubReleaseId": 412309116,
+          "_githubTag": "ipa-vn.com.vng.zingalo-261001-597a1331a3",
+          "_ipaBundleIdentifier": "vn.com.vng.zingalo",
+          "_ipaVersion": "261001",
+          "_originalURL": "https://decrypt.download/api/downloads/58afc6c8-3da7-4bf3-9d7b-495cb500da16"
+        }
+      ],
+      "version": "261001",
+      "size": 118611057,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-vn.com.vng.zingalo-261001-597a1331a3/Zalo-261001.ipa",
+      "minOSVersion": "15.1",
+      "sha256": "da7b25076e3e878e51d77ab3dbb6bca451cc126efed7a924519c3c55d149f02f",
+      "name": "Zalo",
+      "bundleIdentifier": "vn.com.vng.zingalo",
+      "developerName": "CSign Mod",
+      "localizedDescription": "nhân bản\nipa trắng chưa qua chỉnh sửa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d1/c1/41d1c1ab-315b-f657-af41-4214d2876003/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-14T03:26:15Z",
+      "tags": [
+        "social"
+      ],
+      "category": "social",
+      "_manager": {
+        "releaseId": 412309116,
+        "tag": "ipa-vn.com.vng.zingalo-261001-597a1331a3",
+        "originalURL": "https://decrypt.download/api/downloads/58afc6c8-3da7-4bf3-9d7b-495cb500da16",
+        "ipaBundleIdentifier": "vn.com.vng.zingalo",
+        "ipaVersion": "261001"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "7.142.0",
           "date": "2026-10-13T11:54:34Z",
           "size": 212538356,
