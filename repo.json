@@ -9,6 +9,49 @@
     {
       "versions": [
         {
+          "version": "1.64.11768577",
+          "date": "2026-10-14T22:40:34Z",
+          "size": 223351553,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64.11768577-7e382fff5b/Menu-Cong-Nghe-1.64.11768577.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Menu chức năng\n-Hack map\n-Cam xa\n-Aim bot,…",
+          "sha256": "ce3b6fda45caab88d3a7f6c92d79eb4ae68e15cc2af162aeaccaaeb4350cd38c",
+          "_githubReleaseId": 413245411,
+          "_githubTag": "ipa-com.garena.game.kgvn2222-1.64.11768577-7e382fff5b",
+          "_ipaBundleIdentifier": "com.garena.game.kgvn2222",
+          "_ipaVersion": "1.64.11768577",
+          "_originalURL": ""
+        }
+      ],
+      "version": "1.64.11768577",
+      "size": 223351553,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64.11768577-7e382fff5b/Menu-Cong-Nghe-1.64.11768577.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "ce3b6fda45caab88d3a7f6c92d79eb4ae68e15cc2af162aeaccaaeb4350cd38c",
+      "name": "Menu Công Nghệ",
+      "bundleIdentifier": "com.garena.game.kgvn2222",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Menu chức năng\n-Hack map\n-Cam xa\n-Aim bot,…",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgsbVQxREg62tY0b7nyoDqYcaE01Fcvv-oDEP5XccJxPaRpjWlDPtrm0&s=10",
+      "versionDate": "2026-10-14T22:40:34Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 413245411,
+        "tag": "ipa-com.garena.game.kgvn2222-1.64.11768577-7e382fff5b",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.garena.game.kgvn2222",
+        "ipaVersion": "1.64.11768577"
+      },
+      "screenshotURLs": [
+        "https://i.imgur.com/HAzWHjr.jpeg"
+      ]
+    },
+    {
+      "versions": [
+        {
           "version": "1.1.10",
           "date": "2026-10-14T11:44:53Z",
           "size": 658772472,
