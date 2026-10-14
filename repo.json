@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "2.2.54",
+          "date": "2026-10-14T08:26:48Z",
+          "size": 16822694,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.liguangming.Shadowrocket-2.2.54-56a29bf48d/Shadowrocket-2.2.54.ipa",
+          "minOSVersion": "13.0",
+          "localizedDescription": "bản mất phí trên appstore",
+          "sha256": "470e2a52719cf2b3760a243ae2c633cef013521b3d50c89b0246c9dcea5d21db",
+          "_githubReleaseId": 412489809,
+          "_githubTag": "ipa-com.liguangming.Shadowrocket-2.2.54-56a29bf48d",
+          "_ipaBundleIdentifier": "com.liguangming.Shadowrocket",
+          "_ipaVersion": "2.2.54",
+          "_originalURL": ""
+        }
+      ],
+      "version": "2.2.54",
+      "size": 16822694,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.liguangming.Shadowrocket-2.2.54-56a29bf48d/Shadowrocket-2.2.54.ipa",
+      "minOSVersion": "13.0",
+      "sha256": "470e2a52719cf2b3760a243ae2c633cef013521b3d50c89b0246c9dcea5d21db",
+      "name": "Shadowrocket",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "developerName": "CSign Mod",
+      "localizedDescription": "bản mất phí trên appstore",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/2d/64242de2-a763-914f-c686-8777445b83a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-14T08:26:48Z",
+      "tags": [
+        "utility"
+      ],
+      "category": "utilities",
+      "_manager": {
+        "releaseId": 412489809,
+        "tag": "ipa-com.liguangming.Shadowrocket-2.2.54-56a29bf48d",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.liguangming.Shadowrocket",
+        "ipaVersion": "2.2.54"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "11.6.10",
           "date": "2026-10-14T08:03:18Z",
           "size": 219184718,
