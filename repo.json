@@ -9,6 +9,47 @@
     {
       "versions": [
         {
+          "version": "11.6.10",
+          "date": "2026-10-14T08:03:18Z",
+          "size": 219184718,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.adobe.lrmobilephone-11.6.10-dfc57246f8/Lightroom-11.6.10.ipa",
+          "minOSVersion": "18.0",
+          "localizedDescription": "Yêu cầu hệ điều hành iOS 18.0 trở lên",
+          "sha256": "289574b93cdf81d1038b742badfa8c7e2013b0e510fd3a0d00bebbd7c27611df",
+          "_githubReleaseId": 412470725,
+          "_githubTag": "ipa-com.adobe.lrmobilephone-11.6.10-dfc57246f8",
+          "_ipaBundleIdentifier": "com.adobe.lrmobilephone",
+          "_ipaVersion": "11.6.10",
+          "_originalURL": ""
+        }
+      ],
+      "version": "11.6.10",
+      "size": 219184718,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.adobe.lrmobilephone-11.6.10-dfc57246f8/Lightroom-11.6.10.ipa",
+      "minOSVersion": "18.0",
+      "sha256": "289574b93cdf81d1038b742badfa8c7e2013b0e510fd3a0d00bebbd7c27611df",
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Yêu cầu hệ điều hành iOS 18.0 trở lên",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/93/8f/2d938f99-b755-b473-6402-7a4ccf7c4722/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-14T08:03:18Z",
+      "tags": [
+        "photo",
+        "utility"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 412470725,
+        "tag": "ipa-com.adobe.lrmobilephone-11.6.10-dfc57246f8",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.adobe.lrmobilephone",
+        "ipaVersion": "11.6.10"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "261001",
           "date": "2026-10-14T03:26:15Z",
           "size": 118611057,
