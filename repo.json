@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "0.1",
+          "date": "2026-10-14T11:38:21Z",
+          "size": 17747144,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.army2d.mobi-0.1-a9ce36e0a9/Army2D-0.1.ipa",
+          "minOSVersion": "8.0",
+          "localizedDescription": "Tạo tài khoản tại đây https://Army2d.com/",
+          "sha256": "2bbe3737baf2625f4d99f900b1717b6024cbbafd08472b48fdfda5fa1f683488",
+          "_githubReleaseId": 412648111,
+          "_githubTag": "ipa-com.army2d.mobi-0.1-a9ce36e0a9",
+          "_ipaBundleIdentifier": "com.army2d.mobi",
+          "_ipaVersion": "0.1",
+          "_originalURL": "https://www.mediafire.com/file/e3ofb819kiec7zi/Army2D_0.1_decrypted.ipa/file"
+        }
+      ],
+      "version": "0.1",
+      "size": 17747144,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.army2d.mobi-0.1-a9ce36e0a9/Army2D-0.1.ipa",
+      "minOSVersion": "8.0",
+      "sha256": "2bbe3737baf2625f4d99f900b1717b6024cbbafd08472b48fdfda5fa1f683488",
+      "name": "Army2D",
+      "bundleIdentifier": "com.army2d.mobi",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Tạo tài khoản tại đây https://Army2d.com/",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsP2WmiEbg7UMJ4mtKGu6VdKpdLXZ9LodrNw&s",
+      "versionDate": "2026-10-14T11:38:21Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 412648111,
+        "tag": "ipa-com.army2d.mobi-0.1-a9ce36e0a9",
+        "originalURL": "https://www.mediafire.com/file/e3ofb819kiec7zi/Army2D_0.1_decrypted.ipa/file",
+        "ipaBundleIdentifier": "com.army2d.mobi",
+        "ipaVersion": "0.1"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "2.2.54",
           "date": "2026-10-14T08:26:48Z",
           "size": 16822694,
