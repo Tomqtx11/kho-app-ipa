@@ -9,6 +9,62 @@
     {
       "versions": [
         {
+          "version": "2.68.0",
+          "date": "2026-10-15T05:08:43Z",
+          "size": 96717445,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.68.0-f4f67e0336/Locket-2.68.0.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Locket Gold new update\n• Hỗ trợ iOS: 15.0\n• Modifier: Locket Gold\n• Tính năng:\n* Quay video 30 giây\n* Hỗ trợ up video từ bộ sưu tập tối đa 30 giây + 15mb + âm thanh",
+          "sha256": "275362f50b7c61e60757ed12e1bbc0eb6dee908edb5a6eac7c74a1c05b365f19",
+          "_githubReleaseId": 413438024,
+          "_githubTag": "ipa-com.locket.Locket-2.68.0-f4f67e0336",
+          "_ipaBundleIdentifier": "com.locket.Locket",
+          "_ipaVersion": "2.68.0",
+          "_originalURL": ""
+        },
+        {
+          "version": "2.67.0",
+          "date": "2026-10-12T13:22:09Z",
+          "size": 95093398,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.67.0-2820539ce1/Locket-Widget-2.67.0.ipa",
+          "minOSVersion": "15.0",
+          "localizedDescription": "Locket Good",
+          "sha256": "94eab5e7c479254af2764233d28cebb24b7c3041ce07ed2fbd533f84f6eb34ae",
+          "_githubReleaseId": 410623701,
+          "_githubTag": "ipa-com.locket.Locket-2.67.0-2820539ce1",
+          "_ipaBundleIdentifier": "com.locket.Locket",
+          "_ipaVersion": "2.67.0",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
+        }
+      ],
+      "version": "2.68.0",
+      "size": 96717445,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.68.0-f4f67e0336/Locket-2.68.0.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "275362f50b7c61e60757ed12e1bbc0eb6dee908edb5a6eac7c74a1c05b365f19",
+      "name": "Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Locket Gold new update\n• Hỗ trợ iOS: 15.0\n• Modifier: Locket Gold\n• Tính năng:\n* Quay video 30 giây\n* Hỗ trợ up video từ bộ sưu tập tối đa 30 giây + 15mb + âm thanh",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/82/83/37828352-d13f-42cb-90e8-22698ade78e7/app_icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-15T05:08:43Z",
+      "tags": [
+        "photo",
+        "social",
+        "video"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 413438024,
+        "tag": "ipa-com.locket.Locket-2.68.0-f4f67e0336",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.locket.Locket",
+        "ipaVersion": "2.68.0"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "1.64.11768577",
           "date": "2026-10-14T22:40:34Z",
           "size": 223351553,
@@ -583,47 +639,6 @@
       "screenshotURLs": [
         "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg"
       ]
-    },
-    {
-      "versions": [
-        {
-          "version": "2.67.0",
-          "date": "2026-10-12T13:22:09Z",
-          "size": 95093398,
-          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.67.0-2820539ce1/Locket-Widget-2.67.0.ipa",
-          "minOSVersion": "15.0",
-          "localizedDescription": "Locket Good",
-          "sha256": "94eab5e7c479254af2764233d28cebb24b7c3041ce07ed2fbd533f84f6eb34ae",
-          "_githubReleaseId": 410623701,
-          "_githubTag": "ipa-com.locket.Locket-2.67.0-2820539ce1",
-          "_ipaBundleIdentifier": "com.locket.Locket",
-          "_ipaVersion": "2.67.0",
-          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
-        }
-      ],
-      "version": "2.67.0",
-      "size": 95093398,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.67.0-2820539ce1/Locket-Widget-2.67.0.ipa",
-      "minOSVersion": "15.0",
-      "sha256": "94eab5e7c479254af2764233d28cebb24b7c3041ce07ed2fbd533f84f6eb34ae",
-      "name": "Locket Widget",
-      "bundleIdentifier": "com.locket.Locket",
-      "developerName": "CSign Mod",
-      "localizedDescription": "Locket Good",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/82/83/37828352-d13f-42cb-90e8-22698ade78e7/app_icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "versionDate": "2026-10-12T13:22:09Z",
-      "tags": [
-        "photo",
-        "social"
-      ],
-      "category": "photo-video",
-      "_manager": {
-        "releaseId": 410623701,
-        "tag": "ipa-com.locket.Locket-2.67.0-2820539ce1",
-        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
-        "ipaBundleIdentifier": "com.locket.Locket",
-        "ipaVersion": "2.67.0"
-      }
     },
     {
       "versions": [
