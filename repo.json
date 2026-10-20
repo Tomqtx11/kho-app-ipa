@@ -9,6 +9,20 @@
     {
       "versions": [
         {
+          "version": "2.69.1",
+          "date": "2026-10-20T07:38:58Z",
+          "size": 101754793,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.69.1-1c375c6989/Locket-2.69.1.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Locket Gold V2.69.1\n\n✅Có Tick Xanh cá nhân\n✅Mở khoá tính năng Gold \n✅Luôn Luôn kích hoạt Gold\n✅Quay video 60s + Mic\n✅Upload video 60s từ máy (tối đa 100mb)\n✅Nhiều ghi chú mới\n\n✅Hoàn toàn FREE ✅\n\nHD CÀI ĐẶT: xoá sạch mọi app locket trên máy - khởi động lại máy - ký ipa hoặc cài ngay trên CSign - vào app lần đầu nhớ cho phép hết - thoát hẳn app vào lại lần 2 cần cho phép thêm lần nữa mới quay được video (nếu app nó yêu cầu cho phép)",
+          "sha256": "89a03ea840e8fd9f833e23370cbbb0e256aebd709d37c7ad099ecb244ebcafec",
+          "_githubReleaseId": 418122358,
+          "_githubTag": "ipa-com.locket.Locket-2.69.1-1c375c6989",
+          "_ipaBundleIdentifier": "com.locket.Locket",
+          "_ipaVersion": "2.69.1",
+          "_originalURL": ""
+        },
+        {
           "version": "2.69.0",
           "date": "2026-10-15T10:40:54Z",
           "size": 96988264,
@@ -51,17 +65,17 @@
           "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/9d397b35-23ed-4d26-b958-78a813919e8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-12T14%3A03%3A15Z&rscd=attachment%3B+filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-12T13%3A03%3A07Z&ske=2026-10-12T14%3A03%3A15Z&sks=b&skv=2018-11-09&sig=LCXTVe3gq3ynKwu2pkIe2fW0fj8lRvDkShtfZah5CpQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTgxMzAzNCwibmJmIjoxNzkxODExMjM0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.yeTEOCxQ0zKHsdehRUEP0ozZ6hqk7BHvLb5N_M7m3g0&response-content-disposition=attachment%3B%20filename%3DLocket_2.67.0_Gold_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
         }
       ],
-      "version": "2.69.0",
-      "size": 96988264,
-      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.69.0-3eb59f3012/Locket-2.69.0.ipa",
+      "version": "2.69.1",
+      "size": 101754793,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.locket.Locket-2.69.1-1c375c6989/Locket-2.69.1.ipa",
       "minOSVersion": "10.0",
-      "sha256": "ce9e50f10d64739850532b77bff384f57a64b36f6a57be2348d8bf02bb10d4c7",
+      "sha256": "89a03ea840e8fd9f833e23370cbbb0e256aebd709d37c7ad099ecb244ebcafec",
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "CSign Mod",
-      "localizedDescription": "Locket Gold V2.69\n\n✅Mở khoá tính năng Gold\n✅Quay video 60s + Mic\n✅Upload video 60s từ máy (tối đa 15mb)\n✅Nhiều ghi chú mới\n\n✅Hoàn toàn FREE ✅",
+      "localizedDescription": "Locket Gold V2.69.1\n\n✅Có Tick Xanh cá nhân\n✅Mở khoá tính năng Gold \n✅Luôn Luôn kích hoạt Gold\n✅Quay video 60s + Mic\n✅Upload video 60s từ máy (tối đa 100mb)\n✅Nhiều ghi chú mới\n\n✅Hoàn toàn FREE ✅\n\nHD CÀI ĐẶT: xoá sạch mọi app locket trên máy - khởi động lại máy - ký ipa hoặc cài ngay trên CSign - vào app lần đầu nhớ cho phép hết - thoát hẳn app vào lại lần 2 cần cho phép thêm lần nữa mới quay được video (nếu app nó yêu cầu cho phép)",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknNp4zuZXQnOI9EUAhZo86sGgVEkVYMvITR8no6MH9Q&s=10",
-      "versionDate": "2026-10-15T10:40:54Z",
+      "versionDate": "2026-10-20T07:38:58Z",
       "tags": [
         "photo",
         "social",
@@ -69,11 +83,11 @@
       ],
       "category": "photo-video",
       "_manager": {
-        "releaseId": 413688892,
-        "tag": "ipa-com.locket.Locket-2.69.0-3eb59f3012",
+        "releaseId": 418122358,
+        "tag": "ipa-com.locket.Locket-2.69.1-1c375c6989",
         "originalURL": "",
         "ipaBundleIdentifier": "com.locket.Locket",
-        "ipaVersion": "2.69.0"
+        "ipaVersion": "2.69.1"
       }
     },
     {
