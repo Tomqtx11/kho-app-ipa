@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "12.37",
+          "date": "2026-10-25T09:16:56Z",
+          "size": 281348559,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.atebits.Tweetie2-12.37-74cf2bef01/X-12.37.ipa",
+          "minOSVersion": "15.0",
+          "localizedDescription": "🔄 Cập nhật:\n⏺ Nếu không thể làm mới (refresh) bài viết, có vẻ như đăng nhập lại có thể giải quyết vấn đề?",
+          "sha256": "047455412359a8382835674d7ec4cdeae9c127d16a1e9b5f50e9ed1a84d7e989",
+          "_githubReleaseId": 423281111,
+          "_githubTag": "ipa-com.atebits.Tweetie2-12.37-74cf2bef01",
+          "_ipaBundleIdentifier": "com.atebits.Tweetie2",
+          "_ipaVersion": "12.37",
+          "_originalURL": ""
+        }
+      ],
+      "version": "12.37",
+      "size": 281348559,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.atebits.Tweetie2-12.37-74cf2bef01/X-12.37.ipa",
+      "minOSVersion": "15.0",
+      "sha256": "047455412359a8382835674d7ec4cdeae9c127d16a1e9b5f50e9ed1a84d7e989",
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "CSign Mod",
+      "localizedDescription": "🔄 Cập nhật:\n⏺ Nếu không thể làm mới (refresh) bài viết, có vẻ như đăng nhập lại có thể giải quyết vấn đề?",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/c8/0d/8ac80d53-9d93-b659-94b3-6b7a87379b90/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-25T09:16:56Z",
+      "tags": [
+        "social"
+      ],
+      "category": "social",
+      "_manager": {
+        "releaseId": 423281111,
+        "tag": "ipa-com.atebits.Tweetie2-12.37-74cf2bef01",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.atebits.Tweetie2",
+        "ipaVersion": "12.37"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "2.69.2",
           "date": "2026-10-20T23:15:53Z",
           "size": 102153768,
