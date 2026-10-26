@@ -9,6 +9,47 @@
     {
       "versions": [
         {
+          "version": "15.4.6",
+          "date": "2026-10-26T10:15:11Z",
+          "size": 175330816,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.linecorp.b612-15.4.6-bc89697195/B612-15.4.6.ipa",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Subscription Unlocked",
+          "sha256": "1339a045a1c8084270d9f2ce4785009292078de9d7a548f001132f1130e26752",
+          "_githubReleaseId": 424097514,
+          "_githubTag": "ipa-com.linecorp.b612-15.4.6-bc89697195",
+          "_ipaBundleIdentifier": "com.linecorp.b612",
+          "_ipaVersion": "15.4.6",
+          "_originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/8fd6a143-0f8f-4e64-9e83-eed936c2c62e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-26T11%3A12%3A21Z&rscd=attachment%3B+filename%3DB612_15.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-26T10%3A12%3A00Z&ske=2026-10-26T11%3A12%3A21Z&sks=b&skv=2018-11-09&sig=wQPoUOO4qlx%2FUFE7ARhVj%2BCHH5X2dntOe2%2FRu3o15BU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MzAxMzEyMSwibmJmIjoxNzkzMDA5NTIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.KMEeowDbG98Hu-K3WhAENEvSSuEj4XbN89hudk4nVKM&response-content-disposition=attachment%3B%20filename%3DB612_15.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream"
+        }
+      ],
+      "version": "15.4.6",
+      "size": 175330816,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.linecorp.b612-15.4.6-bc89697195/B612-15.4.6.ipa",
+      "minOSVersion": "16.0",
+      "sha256": "1339a045a1c8084270d9f2ce4785009292078de9d7a548f001132f1130e26752",
+      "name": "B612",
+      "bundleIdentifier": "com.linecorp.b612",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Subscription Unlocked",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/26/74bc26ab-1a43-df13-6f05-eb5187e6700e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-10-26T10:15:11Z",
+      "tags": [
+        "photo",
+        "utility"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 424097514,
+        "tag": "ipa-com.linecorp.b612-15.4.6-bc89697195",
+        "originalURL": "https://release-assets.githubusercontent.com/github-production-release-asset/898610442/8fd6a143-0f8f-4e64-9e83-eed936c2c62e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-26T11%3A12%3A21Z&rscd=attachment%3B+filename%3DB612_15.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-26T10%3A12%3A00Z&ske=2026-10-26T11%3A12%3A21Z&sks=b&skv=2018-11-09&sig=wQPoUOO4qlx%2FUFE7ARhVj%2BCHH5X2dntOe2%2FRu3o15BU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MzAxMzEyMSwibmJmIjoxNzkzMDA5NTIxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.KMEeowDbG98Hu-K3WhAENEvSSuEj4XbN89hudk4nVKM&response-content-disposition=attachment%3B%20filename%3DB612_15.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa&response-content-type=application%2Foctet-stream",
+        "ipaBundleIdentifier": "com.linecorp.b612",
+        "ipaVersion": "15.4.6"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "1.5.6",
           "date": "2026-10-26T10:08:32Z",
           "size": 938766602,
