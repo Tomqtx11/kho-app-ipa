@@ -9,6 +9,46 @@
     {
       "versions": [
         {
+          "version": "1.5.6",
+          "date": "2026-10-26T10:08:32Z",
+          "size": 938766602,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.rockstargames.gta3vc-1.5.6-f7425de2c2/GTA-Vice-City-1.5.6.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "crack bản mất phí trên Appstore\nphiên bản việt hoá",
+          "sha256": "d9e35dfb4aa98c781148c2f8469a1080855580672e8b462333e09a63ccb4dc63",
+          "_githubReleaseId": 424089448,
+          "_githubTag": "ipa-com.rockstargames.gta3vc-1.5.6-f7425de2c2",
+          "_ipaBundleIdentifier": "com.rockstargames.gta3vc",
+          "_ipaVersion": "1.5.6",
+          "_originalURL": ""
+        }
+      ],
+      "version": "1.5.6",
+      "size": 938766602,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.rockstargames.gta3vc-1.5.6-f7425de2c2/GTA-Vice-City-1.5.6.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "d9e35dfb4aa98c781148c2f8469a1080855580672e8b462333e09a63ccb4dc63",
+      "name": "GTA Vice City",
+      "bundleIdentifier": "com.rockstargames.gta3vc",
+      "developerName": "CSign Mod",
+      "localizedDescription": "crack bản mất phí trên Appstore\nphiên bản việt hoá",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/512x512bb.jpg",
+      "versionDate": "2026-10-26T10:08:32Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 424089448,
+        "tag": "ipa-com.rockstargames.gta3vc-1.5.6-f7425de2c2",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.rockstargames.gta3vc",
+        "ipaVersion": "1.5.6"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "12.37",
           "date": "2026-10-25T09:16:56Z",
           "size": 281348559,
