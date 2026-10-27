@@ -9,6 +9,49 @@
     {
       "versions": [
         {
+          "version": "1.64.11768577",
+          "date": "2026-10-27T02:57:47Z",
+          "size": 445571120,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64.11768577-b9f0234185/Menu-Cong-Nghe-1.64.11768577.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "Menu Công Nghệ\n\n✅hack map\n✅cam xa kéo chỉnh \n✅Aim Bot\n✅unlock skin\n✅check tố cáo\n✅hiện cd bổ trợ, unty\n\n✅antiband new update\n\n‼️dữ dưới 3 phiếu 1 trận khả năng an toàn trận sau. \n‼️Free No Key nên hãy tự bảo vệ tài khoản của mình",
+          "sha256": "7f10590bc4b31e4e77d91542ff384c35d6d9790c65e2b57c6530306e550e963b",
+          "_githubReleaseId": 424988559,
+          "_githubTag": "ipa-com.garena.game.kgvn2222-1.64.11768577-b9f0234185",
+          "_ipaBundleIdentifier": "com.garena.game.kgvn2222",
+          "_ipaVersion": "1.64.11768577",
+          "_originalURL": ""
+        }
+      ],
+      "version": "1.64.11768577",
+      "size": 445571120,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64.11768577-b9f0234185/Menu-Cong-Nghe-1.64.11768577.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "7f10590bc4b31e4e77d91542ff384c35d6d9790c65e2b57c6530306e550e963b",
+      "name": "Menu Công Nghệ",
+      "bundleIdentifier": "com.garena.game.kgvn2222",
+      "developerName": "CSign Mod",
+      "localizedDescription": "Menu Công Nghệ\n\n✅hack map\n✅cam xa kéo chỉnh \n✅Aim Bot\n✅unlock skin\n✅check tố cáo\n✅hiện cd bổ trợ, unty\n\n✅antiband new update\n\n‼️dữ dưới 3 phiếu 1 trận khả năng an toàn trận sau. \n‼️Free No Key nên hãy tự bảo vệ tài khoản của mình",
+      "iconURL": "https://i.imgur.com/WJQN9LH.jpeg",
+      "versionDate": "2026-10-27T02:57:47Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 424988559,
+        "tag": "ipa-com.garena.game.kgvn2222-1.64.11768577-b9f0234185",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.garena.game.kgvn2222",
+        "ipaVersion": "1.64.11768577"
+      },
+      "screenshotURLs": [
+        "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.garena.game.kgvn2222-1.64.11768577-b9f0234185/screenshot-01.jpg"
+      ]
+    },
+    {
+      "versions": [
+        {
           "version": "15.4.6",
           "date": "2026-10-26T10:15:11Z",
           "size": 175330816,
