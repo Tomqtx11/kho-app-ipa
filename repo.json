@@ -9,6 +9,48 @@
     {
       "versions": [
         {
+          "version": "12.6.0",
+          "date": "2026-11-02T15:27:06Z",
+          "size": 146689221,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lemon.lvoverseas-12.6.0-01f8a31b64/CapCut-12.6.0.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "⛔️CapCut\n✅Phiên Bản : v12.6.0 \n✅Unlock Pro\nđồ ăn cắp nên anhem thoải mái đê",
+          "sha256": "e0c176b049c0a7e8f7b619de6481aaaf892993d59e701de0393e26b26e5a5fe3",
+          "_githubReleaseId": 431627263,
+          "_githubTag": "ipa-com.lemon.lvoverseas-12.6.0-01f8a31b64",
+          "_ipaBundleIdentifier": "com.lemon.lvoverseas",
+          "_ipaVersion": "12.6.0",
+          "_originalURL": ""
+        }
+      ],
+      "version": "12.6.0",
+      "size": 146689221,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.lemon.lvoverseas-12.6.0-01f8a31b64/CapCut-12.6.0.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "e0c176b049c0a7e8f7b619de6481aaaf892993d59e701de0393e26b26e5a5fe3",
+      "name": "CapCut",
+      "bundleIdentifier": "com.lemon.lvoverseas",
+      "developerName": "CSign Mod",
+      "localizedDescription": "⛔️CapCut\n✅Phiên Bản : v12.6.0 \n✅Unlock Pro\nđồ ăn cắp nên anhem thoải mái đê",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/5b/31d85b5d-7785-5789-df84-1b052afd2e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-11-02T15:27:06Z",
+      "tags": [
+        "photo",
+        "utility",
+        "video"
+      ],
+      "category": "photo-video",
+      "_manager": {
+        "releaseId": 431627263,
+        "tag": "ipa-com.lemon.lvoverseas-12.6.0-01f8a31b64",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.lemon.lvoverseas",
+        "ipaVersion": "12.6.0"
+      }
+    },
+    {
+      "versions": [
+        {
           "version": "16.635.1",
           "date": "2026-11-02T06:06:19Z",
           "size": 813857793,
