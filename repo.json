@@ -9,6 +9,52 @@
     {
       "versions": [
         {
+          "version": "3.5.2790",
+          "date": "2026-11-20T07:28:11Z",
+          "size": 106938373,
+          "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/Coin-Master-3.5.2790.ipa",
+          "minOSVersion": "10.0",
+          "localizedDescription": "✅ Speed\n✅ Đếm,…\n✅ các chức năng mà ae chơi game này sẽ hiểu",
+          "sha256": "23784e8cae381f8d019946891d09225bb75e360afe981baba4596bde02bfca95",
+          "_githubReleaseId": 452386917,
+          "_githubTag": "ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b",
+          "_ipaBundleIdentifier": "com.mobile-softing.coinmaster",
+          "_ipaVersion": "3.5.2790",
+          "_originalURL": ""
+        }
+      ],
+      "version": "3.5.2790",
+      "size": 106938373,
+      "downloadURL": "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/Coin-Master-3.5.2790.ipa",
+      "minOSVersion": "10.0",
+      "sha256": "23784e8cae381f8d019946891d09225bb75e360afe981baba4596bde02bfca95",
+      "name": "Coin Master",
+      "bundleIdentifier": "com.mobile-softing.coinmaster",
+      "developerName": "CSign Mod",
+      "localizedDescription": "✅ Speed\n✅ Đếm,…\n✅ các chức năng mà ae chơi game này sẽ hiểu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/95/da/9c95dad0-d283-0e9c-d0fd-4f03630b8446/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-11-20T07:28:11Z",
+      "tags": [
+        "game"
+      ],
+      "category": "games",
+      "_manager": {
+        "releaseId": 452386917,
+        "tag": "ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b",
+        "originalURL": "",
+        "ipaBundleIdentifier": "com.mobile-softing.coinmaster",
+        "ipaVersion": "3.5.2790"
+      },
+      "screenshotURLs": [
+        "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/screenshot-01.jpg",
+        "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/screenshot-02.jpg",
+        "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/screenshot-03.jpg",
+        "https://github.com/Tomqtx11/kho-app-ipa/releases/download/ipa-com.mobile-softing.coinmaster-3.5.2790-5cb2c2485b/screenshot-04.jpg"
+      ]
+    },
+    {
+      "versions": [
+        {
           "version": "2.69.3",
           "date": "2026-11-17T04:08:09Z",
           "size": 111259360,
